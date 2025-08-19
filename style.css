@@ -164,7 +164,7 @@ header nav a {
 
 /* SECTION 5 */
 .section5 {
-    background: url('img/Imagem 3.jpg') center/cover no-repeat;
+    background: url('Imagem 3.jpg') center/cover no-repeat;
     color: white;
     text-align: center;
     padding: 80px 20px;
@@ -294,7 +294,7 @@ header nav a {
 .depoimentos {
     padding: 100px 0;
     position: relative;
-    background-image: url('../img/Imagem 3.jpg');
+    background-image: url('Imagem 3.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -360,4 +360,5 @@ header nav a {
 .rating {
     font-size: 1.5rem;
     color: #FFD700; /* Dourado */
+
 }
